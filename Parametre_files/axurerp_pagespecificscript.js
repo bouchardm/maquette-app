@@ -48,7 +48,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u19'] = 'top';gv_vAlignTable['u5'] = 'top';gv_vAlignTable['u1'] = 'center';gv_vAlignTable['u9'] = 'top';document.getElementById('u14_img').tabIndex = 0;
+gv_vAlignTable['u17'] = 'top';gv_vAlignTable['u5'] = 'top';gv_vAlignTable['u1'] = 'center';gv_vAlignTable['u9'] = 'top';document.getElementById('u14_img').tabIndex = 0;
 
 u14.style.cursor = 'pointer';
 $axure.eventManager.click('u14', function(e) {
@@ -59,7 +59,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u15'] = 'top';document.getElementById('u6_img').tabIndex = 0;
+gv_vAlignTable['u20'] = 'center';gv_vAlignTable['u15'] = 'top';document.getElementById('u6_img').tabIndex = 0;
 
 u6.style.cursor = 'pointer';
 $axure.eventManager.click('u6', function(e) {
@@ -70,4 +70,4 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u23'] = 'top';gv_vAlignTable['u18'] = 'center';gv_vAlignTable['u7'] = 'top';
+gv_vAlignTable['u23'] = 'top';gv_vAlignTable['u7'] = 'top';

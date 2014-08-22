@@ -59,7 +59,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u26'] = 'top';gv_vAlignTable['u9'] = 'top';gv_vAlignTable['u7'] = 'top';gv_vAlignTable['u23'] = 'top';gv_vAlignTable['u25'] = 'center';gv_vAlignTable['u20'] = 'top';gv_vAlignTable['u5'] = 'top';gv_vAlignTable['u22'] = 'top';gv_vAlignTable['u21'] = 'top';document.getElementById('u0_img').tabIndex = 0;
+gv_vAlignTable['u26'] = 'top';gv_vAlignTable['u9'] = 'top';gv_vAlignTable['u7'] = 'top';gv_vAlignTable['u23'] = 'top';gv_vAlignTable['u25'] = 'center';gv_vAlignTable['u19'] = 'top';gv_vAlignTable['u20'] = 'top';gv_vAlignTable['u5'] = 'top';gv_vAlignTable['u22'] = 'top';document.getElementById('u0_img').tabIndex = 0;
 
 u0.style.cursor = 'pointer';
 $axure.eventManager.click('u0', function(e) {
